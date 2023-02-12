@@ -4,4 +4,4 @@ streamlit.title('My parents New Healthy Diner');
 
 streamlit.header('Breakfast Menu');
 streamlit.text('Pancakes');
-streamlist.text('Muesli yogurt and blueberries');
+streamlit.text('Muesli yogurt and blueberries');
